@@ -1,0 +1,10 @@
+<rutas>
+	<ruta1>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\00-TMP\\Texto-INM</ruta1>
+	<ruta2>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\00-TMP\\XML-INM</ruta2>
+	<ruta3>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\Texto\\backup</ruta3>
+	<ruta4>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\Texto\\info\\alumno</ruta4>
+	<ruta5>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\Texto\\procesados</ruta5>
+	<ruta6>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\XML\\backup</ruta6>
+	<ruta7>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\XML\\info\\alumno</ruta7>
+	<ruta8>D:\\TMP\\DAM2\\AccesoDatos\\Ficheros\\XML\\procesados</ruta8>
+</rutas>
